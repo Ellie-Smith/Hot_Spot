@@ -1,0 +1,4 @@
+2009-07-06,2009-07-07
+Informetrics
+
+A short history of informetric and bibliometric studies is provided and the role of the Belgian information and library scientist Paul Otlet is highlighted. The difference between the terms informetrics, bibliometrics and scientometrics is explained, following Ingwersen and Bjrneborn. A short overview of topics is given and some predictions related to the future of the field are made. It is the author&rsquo;s opinion that besides many practical applications, the field will also develop using axiomatic and algebraic (structural) approaches. The author has no doubt that China will become a leading country in the field.informetrics,bibliometrics,history,citation,analysis

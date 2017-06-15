@@ -1,0 +1,4 @@
+2003-06-02
+对图书馆网络系统中Windows终端取代PC的分析
+陈立华
+概述Windows终端的兴起与发展，通过对Windows终端与PC的比较，着重分析Windows终端的优势和Windows终端步入图书馆网络系统的可行性与必然性。WBT,Windows终端,终端,瘦客户机

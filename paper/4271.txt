@@ -1,0 +1,4 @@
+2013-12-06
+基于被引生命周期的期刊被引的比较研究
+魏瑞斌,田大芳,武夷山
+在对国内期刊被引研究成果的基础上，结合生命周期理论，提出被引生命周期的概念和被引比例的指标。基于该指标，研究发现Journal of the American Society for Information Science and Technology（JASIST）、Journal of Information Science（JIS）和Scientometrics 3种期刊在被引生命周期内的被引存在一定的差异。其中，JASIST发表的论文在前半个被引生命周期内被研究人员引用较多，Scientometric发表的论文在后半个生命周期内被引用较多，JIS发表论文的被引情况则在整体上与Scientometric相近。被引生命周期,被引比例,学术期刊,引文分析

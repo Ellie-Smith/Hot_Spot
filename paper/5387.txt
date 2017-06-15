@@ -1,0 +1,4 @@
+2002-11-22
+基于DC的医学信息资源元数据比较分析
+
+分析比较3种医学信息资源 metadata(MCM、CISMeF、EBM metadata)的格式、结构、编码语言等,探讨医学信息资源metadata应用开发等问题。元数据,Dublin Core,医学信息资源,循证医学

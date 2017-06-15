@@ -1,0 +1,4 @@
+2013-07-03
+基于Sesame及Rdfizer扩展工具的关联数据应用平台
+张永娟,陈涛,张珅
+采用MetaStudio和DataScraper对网络源非结构化数据按照需要进行自动抽取和XML结构化,并自主开发Rdfizer软件包,将XML数据转换为RDF数据,进而基于自行扩展的Sesame框架构建关联数据发布平台,实现关联数据的存储、发布、查询、整合和推理等功能。Sesame框架,RDF,关联数据,Rdfizer,信息整合

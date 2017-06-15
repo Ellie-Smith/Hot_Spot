@@ -1,0 +1,4 @@
+2005-01-01
+Google Scholar Beta检索性能的初步分析
+朱佳鸣
+利用多个医学提问，通过对Google Scholar Beta、PubMed、ISI Science Citation Index Expanded、CrossRef Search、Scirus等工具检索结果的对比，分析 Google Scholar Beta 测试版搜索引擎在学术信息检索中的性能表现，特别是检索的查全率、结果的相关性、文献被引用检索等方面的性能，指出其存在的不足，并对该搜索引擎对图书馆跨库查询方案的影响进行初步探讨。Google Scholar Beta,搜索引擎,信息检索

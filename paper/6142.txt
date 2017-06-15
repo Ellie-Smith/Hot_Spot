@@ -1,0 +1,4 @@
+2005-03-15
+基于ontology的智能检索技术研究
+张亮,陈肇雄,黄河燕
+介绍ontology的概念模型、明确性、形式化、共享性等属性特征，阐述面向信息检索的ontology的层次结构(即顶层on- tology、领域ontology、任务ontology和应用ontology)及其相互关系，研究分析基于ontology的智能信息检索系统的运行机制和系统体系的构建，并以实例说明ontology在深层次检索中的优势。ontology,智能信息检索,语义

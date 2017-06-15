@@ -1,0 +1,4 @@
+2012-12-05
+Human Library服务设计问题与对策研究
+曾婷
+基于对国内图书馆Human Library服务案例的分析,总结Human Library服务在我国图书馆服务应用中存在的问题,包括缺乏统一组织、资源建设与保存模式不明确、缺少服务质量评估标准等,结合实际分析以上问题的成因,并针对Human Library服务管理制度、Living Book保存机制、Human Library服务评价体系、Human Library服务设计思路等提出对策与措施,以促进Human Library服务在图书馆中的应用,提高我国图书馆Human Library服务质量。human,library,真人图书馆,图书馆服务,用户服务,服务设计

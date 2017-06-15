@@ -1,0 +1,4 @@
+2002-08-28
+PageRank算法的原理简介
+
+在介绍PageRank算法基本思想、基本公式和计算实例的基础上,介绍如何利用PageR ank算法提高网页PR的方法,最后指出PageRank算法存在的不足,并对其发展趋势进行分析。Google,PageRank,排序算法

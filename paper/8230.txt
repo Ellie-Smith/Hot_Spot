@@ -1,0 +1,4 @@
+2015-08-19
+图书情报领域文献的Altmetrics指标分析
+刘晓娟,宰冰欣
+[目的/意义]通过分析某个学科领域中Altmetrics指标的特征,为该领域文献影响力评价提供更加科学合理的指标体系。[方法/过程]定位于图书情报领域,选取Scopus、Altmetric.com进行文献被引频次及Altmetrics指标值的采集,对数据进行统计分析、聚类分析和内容分析。[结果/结论]在众多Altmetrics指标中,Mendeley和Twitter更适合于对图书情报领域文献的影响力做出评价;Mendeley和Twitter中文献的使用群体、文献主题、内容和期刊分布都存在明显的差异性;Twitter适合对文献的社会影响力做出判断,Mendeley更适用于文献的学术影响力评价;不同工具的流行程度存在地域差异,利用Altmetrics指标时应考虑该指标对文献影响力的评价是否存在地域缺失。Altmetrics,Mendeley,Twitter,文献计量

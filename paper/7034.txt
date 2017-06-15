@@ -1,0 +1,4 @@
+1996-05-14
+利用STN进行引文检索
+赵忠
+介绍STN系统Scisearch文档独特的引文检索和跨文档检索功能,比较了Dialog和STN在引文检索方面的特点,并通过实例说明STN系统的SELECTCIT在引文检索中的应用.引文检索,联机检索,STN,Scisearch

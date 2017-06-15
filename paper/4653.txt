@@ -1,0 +1,4 @@
+2014-06-23
+国内Data Curation研究现状与热点分析
+曹霞
+对国内与Data Curation有关的文献进行梳理分析，归纳出当前国内Data Curation研究领域所涉及的研究内容主要分布在Data Curation概念、Data Curation对图书馆的影响、借鉴国外研究成果和实践经验、综述或其他研究内容等4个方面，从这4个方面对国内Data Curation的研究现状进行梳理，指出该研究领域目前的研究特点及不足，并提出国内Data Curation研究的发展对策。Data Curation,科学数据,数据管理,图书馆,综述
