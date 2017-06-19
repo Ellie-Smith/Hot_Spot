@@ -1,4 +1,0 @@
-2002-07-26
-USMARC、CNMARC转换策略的再讨论
-陈越
-从USMARC、CNMARC各自的结构和特点、MARC的发展前景,提出对MARC转换研究的思考,指出MARC格式转换在数字时代和网络时代的发展方向。USMARC CNMARC,格式转换

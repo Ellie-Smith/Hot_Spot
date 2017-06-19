@@ -1,4 +1,0 @@
-2002-08-19
-利用Dreamweaver UltraDev 4.0实现动态网页数据交互式查询的方法
-陆觉民
-介绍利用Dreamweaver UltraDev 4.0与ASP的结合,实现动态、交互式的查询方法。Dreamweaver UltraDev 4.0,动态网页,交互式查询

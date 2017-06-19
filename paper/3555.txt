@@ -1,4 +1,0 @@
-2012-05-21
-Folksonomy中的语义关系呈现:Folksonomy局部本体
-张云中
-针对当前folksonomy语义关系呈现问题,在"用户-标签-资源"的三元视角下重构folksonomy语义体系,理清folksonomy语义关系的主要类别,进而建立科学的folksonomy语义与本体语义的映射机制,最终提出folksonomy局部本体的新概念,指出folksonomy局部本体是folksonomy语义关系呈现的途径。分众分类法,语义体系,语义关系,本体

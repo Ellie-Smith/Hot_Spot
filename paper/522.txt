@@ -1,4 +1,0 @@
-2008-01-14
-Google Scholar与PubMed搜索比较
-薛俊峰,张梅,牛晓芳
-Google Scholar是综合性的搜索引擎，PubMed是专业性的搜索数据库，两个系统的共同点是都能搜索学术文章，但由于两者拥有不相同的搜索数据及搜索方式的极不相同，返回的结果往往不同。通过对Google Scholar和PubMed做各种不同的搜索试验，对搜索结果进行比较和对比，得出两个系统之间的不同之处，发现造成这些不同的原因，以更清晰地了解Google Scholar和PubMed各自的搜索能力。PubMed,Google,Scholar,搜索能力

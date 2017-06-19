@@ -1,4 +1,0 @@
-2006-02-25
-USMARC向CNMARC自动转换系统
-沈培芳
-介绍现阶段多数图书馆管理系统只支持CNMARC格式数据，而不支持USMARC格式数据，造成不能直接使用USMARC格式数据的问题。分析USMARC与CNMARC的差异，并在此基础上，设计出两种MARC的转换规则表和USMARC向CNMARC自动转换的系统，从而实现USMARC向CNMARC的自动转换。USMARC,CNMARC,自动转换

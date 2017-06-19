@@ -1,4 +1,0 @@
-2015-01-12
-Jfactor及其与传统文献计量指标的关系
-鲍玉芳,马建霞
-[目的/意义] 研究基于开放式引文数据库提出的新型期刊评价指标Jfactor以及其与传统文献计量学指标的关系,分析Jfactor的特点,并对我国期刊评价提出启示。[方法/过程] 结合统计学方法,利用SPSS软件对高能物理领域期刊的指标数据进行相关性分析,主要包括Jfactor与impact factor、5-year impact factor、eigenfactor score,同时将指标之间作比较研究。[结果/结论] 相关分析结果表明,Jfactor与impact factor相关性最强,其次是5-year impact factor,与eigenfactor score的相关性相对最弱。相对于impact factor,Jfactor的计算数据更加透明,而且充分考虑了开放数据对论文引用的影响,对我国期刊评价具有重要的研究价值。Jfactor,期刊评价,相关性,计量指标

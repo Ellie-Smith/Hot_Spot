@@ -1,4 +1,0 @@
-2004-09-13
-OPAC最新发展态势论IFLA书目功能需求FRBR对OPAC的影响
-刘素清
-在简述IFLA书目功能需求(FRBR)模型的4个实体作品(work)、内容表达(expression)、载体表现(manifestation)和单件(item)的概念及其相互之间的层次关系的基础上,结合实例介绍基于FRBR模型创建的书目记录、基于FRBR的OPAC的显示模式及其与传统OPAC的区别,并对OPAC如何与一般的搜索引擎检索相结合、基于FRBR模型建立的OPAC的应用等进行分析。OPAC,书目记录,FRBR

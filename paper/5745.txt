@@ -1,4 +1,0 @@
-2002-12-18
-数字图书馆环境下基于OpenURL的开放式链接框架研究
-马建霞
-通过比较数字图书馆环境下基于DOI的CrossRef和基于OpenURL的SFX的开放链接框架,着重分析基于OpenURL的开放链接框架的思想、OpenURL的语法,实现对符合用户背景的服务所依赖的CookiePusher机制。并介绍基于DOI的CrossRef和基于OpenURL的集成的开放链接框架的试验。开放式链接,OpenURL,SFX,DOI,CrossRef

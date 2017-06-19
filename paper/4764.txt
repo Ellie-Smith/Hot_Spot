@@ -1,4 +1,0 @@
-2003-02-24
-创建基于Microsoft Indexing Service的Web全文检索系统
-唐光前
-分析基于Microsoft Indexing Service创建Web全文检索系统的理由及Microsoft Indexing Service的索引机制,并利用Mi-crosoft Visual C#.NET技术给出一个具体实现方案。全文检索,Microsoft Indexing Service高校图书馆

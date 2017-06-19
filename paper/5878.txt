@@ -1,4 +1,0 @@
-2004-01-29
-用Delphi和Google Web API开发自己的搜索引擎
-任树怀,孙桂春
-简述Delphi是Google Web API提供的一种Web服务，允许开发人员选择自己喜爱的编程语言开发应用程序，通过基于XML的SOAP信息交换协议与远程的Google服务器连接来调用Google的Web服务；通过实例详细介绍用Delphi和GoogleWeb API开发搜索引擎的方法和步骤。搜索引擎,Google,Google Web API,Delphi

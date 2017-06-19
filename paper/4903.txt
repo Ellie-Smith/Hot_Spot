@@ -1,4 +1,0 @@
-2004-06-20
-个性化网络信息检索系统研究与实现
-李广建
-提出一种个性化网络信息检索系统(Personalized Internet Information Retrieval System，简称PIIRS)。在分析PIIRS目标和业务流程的基础上，给出PIIRS的整体结构，并详细说明PIIRS各组成子系统的功能及其实现。最后总结PIIRS系统的特色，并指出今后的改进方向。信息检索,个性化服务,用户模型,搜索引擎,主题挖掘,相关反馈

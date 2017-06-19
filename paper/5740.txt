@@ -1,4 +1,0 @@
-2003-01-15
-描述医学资源的元数据方案
-韩夏,张晓林
-介绍4种描述医学资源的元数据:OhioLINK的医学元数据、NLM Metadata Schema、Medi-cal Core Metadata(MCM)、CISMeF(Catalog and Index of French-language health resources)无数据,得出一般是通过元数据的复用来形成描述医学资源的元数据集的结论。元数据,医学资源,资源描述

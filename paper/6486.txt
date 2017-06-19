@@ -1,4 +1,0 @@
-1999-03-29
-因特网三大检索工具的比较研究
-张颖,周志农
-以较充分的实例比较因特网三大检索工具在收录范围、侧重面及检索功能方面的差异，提出一种在实际工作中将三大类检索工具优化运用的检索策略。SubjectDirectory,SearchEngine,MegaSearchEngine,Internet

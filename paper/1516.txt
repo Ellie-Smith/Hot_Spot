@@ -1,4 +1,0 @@
-2009-06-22,2010-01-05
-Dspace新一代WEB界面Manakin的研究与实现
-杨国栋,李晨英,韩明杰,臧琳
-DSpace是目前国内外知识库构建中利用率较高的开源软件系统，Manakin是DSpace系统基于XML用户界面的新版本。首先从使用技术、系统构建思想、系统功能扩展以及用户界面设计等方面分析Manakin的优势。接着分析Manakin的三个基本组成部分：DRI Schema、ASpect和Theme以及三者之间的合作方式，并通过三个典型用户展示Manakin的魅力。最后，在实践基础上总结Manakin应用中的一些注意事项和使用技巧。DSpace,Manakin,知识库,机构知识库,Web用户界面,功能扩展,DSpace,Manakin,repository,institutional repository,Web UI,extendability

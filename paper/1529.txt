@@ -1,4 +1,0 @@
-2009-06-24,2010-01-20
-SDN企业基于sharepoint的协作管理平台的构建
-陈荔,徐福缘
-介绍协作工具sharepoint的基本构架与优势，结合SDN的目标和特点，分析SDN企业构建企业内外协作管理平台的必要性。通过与传统的协作信息平台的比较，说明sharepoint对SDN企业协作管理平台的支持与贡献。在此基础上，给出SDN企业基于sharepoint的协作管理平台的架构，并对其应用层的功能进行描述。SDN企业,sharepoint,协作管理平台,知识管理,SDN enterprise,sharepoint,collaboration management platform,knowledge management
