@@ -40,7 +40,8 @@ class papers:
             # self.abstract.append(c[3])
             words = jieba.cut(c[3])
             words = deleteStopwords(words)
-            self.abstract.append(''.join(words))
+            abst = ''.join(words)
+            self.abstract.append(abst)
 
 
             if len(c) < 5:
@@ -76,7 +77,6 @@ class papers:
         self.phrases.extend(self.keywords)
 
 
-
     def read_csv(self,filename):
         import csv
         csvFile = open(filename, "r")
@@ -84,7 +84,7 @@ class papers:
         return reader
 
     #构建词云
-    def show_wordcloud(self,words):
+    def show_wordcloud(self,words,conf_name):
         wl_space_split = ' '.join(words)
         d = path.dirname(__file__)
         nana_coloring = imread(path.join(d, "cloud.jpg"))
@@ -104,12 +104,14 @@ class papers:
         my_wordcloud.recolor(color_func=image_colors)
         plt.imshow(my_wordcloud)  # 显示词云图
         plt.axis("off")  # 是否显示x轴、y轴下标
+        plt.savefig('result\\' + conf_name + '_wordcloud.png',dpi=600)
         plt.show()
+
         # save img
         # my_wordcloud.to_file(path.join(d, "cloudimg.png"))
 
     #每年收录文献数量统计
-    def show_history_numb_paper(self,year,paper_count):
+    def show_history_numb_paper(self,year,paper_count,conf_name):
         font_yahei_consolas = FontProperties(fname="huawenfansong.ttf")
         plt.figure(figsize=(12, 10))
         plt.xlim((1980, 2017))
@@ -124,6 +126,14 @@ class papers:
         ## 添加平均值
         plt.hlines(np.mean(paper_count), 1980, 2017, "b")
         plt.show()
+
+        #保存数据
+        save_path = 'result\\'+conf_name+'_year_count.csv'
+        out = open(save_path,'w')
+        csv_writer = csv.writer(out,dialect='excel')
+        for i in range(len(year)):
+            csv_writer.writerow([year[i],paper_count[i]])
+        out.close()
 
     # 计算文档集的tfidf
     def tfidf(self,corpus1):
@@ -163,7 +173,9 @@ def deleteStopwords(word_list):
     return finalwords
 
 if __name__ == '__main__':
-    paper = papers('data\\yingyongyanjiu.csv')
+    '''this is a new branch -- ellie'''
+    paper = papers('data\\tushuqingbao(2).csv')
+    conference_name = 'tushuqingbao(2)'
     for w in paper.phrases:
         jieba.add_word(w)
     wordlist = jieba.cut(' '.join(paper.abstract), cut_all=True)
@@ -177,7 +189,7 @@ if __name__ == '__main__':
         for i in range(phrase_dict[w]):
             wordlist.append(w)
     #收录文献热点词云
-    paper.show_wordcloud(set(wordlist))
+    paper.show_wordcloud(set(wordlist),conference_name)
 
     #历史收录文献数量折线图
     print "counting date"
@@ -190,7 +202,7 @@ if __name__ == '__main__':
             date_dict[i] = date_dict[i] + 1
     keys = [int(year) for year in date_dict.keys()]
     values = [int(count) for count in date_dict.values()]
-    paper.show_history_numb_paper(keys,values)
+    paper.show_history_numb_paper(keys,values,conference_name)
 
     #历史收录文献热点
     print "finding hot_spot by date"
@@ -222,10 +234,11 @@ if __name__ == '__main__':
         index = 0
         for i in range(len(tfidf[k])):
             if tfidf[k][i] > max_ and len(words[str(i)]) > 3:
+            # if paper.hotspot_dict[paper.hotspot_dict.keys()[k]]['abstracts'].count(words[str(i)]) > max_ and len(words[str(i)]) > 3:
 
                 if '结果' in words[str(i)] or '表明' in words[str(i)] or '研究' in words[str(i)] \
                     or '收敛速度' in words[str(i)] or '数据集上' in words[str(i)] or '算法相比' in words[str(i)]\
-                        or '体系结构' in words[str(i)]:
+                        or '体系结构' in words[str(i)] or 'isbn' in words[str(i)] or '19' in words[str(i)]:
                     continue
                 else:
                     max_ = tfidf[k][i]
@@ -237,5 +250,13 @@ if __name__ == '__main__':
     hot_spot = sorted(hot_spot,key=lambda item:item[0],reverse=True)
     for i in hot_spot:
         print i[0],i[1],i[2]
+
+    # 保存数据
+    save_path = 'result\\' + conference_name + '_hot_spot.csv'
+    out = open(save_path, 'w')
+    csv_writer = csv.writer(out, dialect='excel')
+    for i in range(len(hot_spot)):
+        csv_writer.writerow([hot_spot[i][0],hot_spot[i][1],hot_spot[i][2] ])
+    out.close()
 
 
